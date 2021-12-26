@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexiconCalculator", "LexiconCalculator\LexiconCalculator.csproj", "{D138CDFC-3C37-44EB-89CA-E28DAC9055E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexiconCalculator.Tests", "LexiconCalculator.Tests\LexiconCalculator.Tests.csproj", "{C37170C7-0100-4CDF-A0EC-D74251C0FDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D138CDFC-3C37-44EB-89CA-E28DAC9055E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D138CDFC-3C37-44EB-89CA-E28DAC9055E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D138CDFC-3C37-44EB-89CA-E28DAC9055E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D138CDFC-3C37-44EB-89CA-E28DAC9055E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37170C7-0100-4CDF-A0EC-D74251C0FDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37170C7-0100-4CDF-A0EC-D74251C0FDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37170C7-0100-4CDF-A0EC-D74251C0FDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37170C7-0100-4CDF-A0EC-D74251C0FDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE31EA19-2F59-4919-85D1-647F116149AD}
+	EndGlobalSection
+EndGlobal
